@@ -6,7 +6,7 @@ tags:
 authors: Jim Woolley, Devon Eldridge
 family: Encyrtidae
 distribution: Cosmopolitan
-card_image: 
+card_image: Gyranusoidea sp 10x.jpg
 footer_image: 
 layout: taxon_page
 ---
